@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+tech stack
+
+DB : moogodb, mysql, mssql
+
 my Blog : https://gsjnefus20.tistory.com/
